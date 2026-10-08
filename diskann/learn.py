@@ -16,3 +16,9 @@ decades = age // 10
 years = age % 10
 
 print("You have lived approximately", decades, "decades and ", years, "years.")
+
+temperature = 95
+
+if temperature > 80:
+    print("It's hot outside.")
+
